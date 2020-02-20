@@ -11,6 +11,11 @@
                "label":"saree",
                "color":"#32a852",
                "icon":"letter-s-box"
+            },
+            {
+               "label":"innerwear",
+               "color":"#32a8a0",
+               "icon":"letter-i-box"
             }
          ]
       }
