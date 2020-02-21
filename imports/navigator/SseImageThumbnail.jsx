@@ -24,7 +24,7 @@ class SseImageThumbnail extends React.Component {
                 <div className="w100 text-align-center text-crop">{name}</div>
                 <div>
                     {this.props.annotated
-                        ? <Approval style={{ color: green[500] }} />
+                        ? <Approval />
                         : null}
                 </div>
 
