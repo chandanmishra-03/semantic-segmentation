@@ -4,18 +4,18 @@ import {withStyles} from '@material-ui/core/styles';
 import {Approval} from "mdi-material-ui";
 import SseGlobals from "../common/SseGlobals";
 
-import { makeStyles } from '@material-ui/core/styles';
-import { green } from '@material-ui/core/colors';
-import Icon from '@material-ui/core/Icon';
-
-
-const useStyles = makeStyles(theme => ({
-  root: {
-    '& > .fa': {
-      margin: theme.spacing(2),
-    },
-  },
-}));
+// import { makeStyles } from '@material-ui/core/styles';
+// import { green } from '@material-ui/core/colors';
+// import Icon from '@material-ui/core/Icon';
+//
+//
+// const useStyles = makeStyles(theme => ({
+//   root: {
+//     '& > .fa': {
+//       margin: theme.spacing(2),
+//     },
+//   },
+// }));
 
 class SseImageThumbnail extends React.Component {
     constructor() {
@@ -37,7 +37,7 @@ class SseImageThumbnail extends React.Component {
                 <div className="w100 text-align-center text-crop">{name}</div>
                 <div>
                     {this.props.annotated
-                        ? <Icon className="fa fa-plus-circle" style={{ color: green[500] }} />
+                        ? <Approval/>
                         : null}
                 </div>
 
