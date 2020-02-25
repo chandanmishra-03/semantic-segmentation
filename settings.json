@@ -16,6 +16,26 @@
                "label":"innerwear",
                "color":"#32a8a0",
                "icon":"letter-i-box"
+            },
+            {
+               "label":"brief",
+               "color":"#32c8a0",
+               "icon":"letter-b-box"
+            },
+            {
+               "label":"vest",
+               "color":"#21a8a0",
+               "icon":"letter-v-box"
+            },
+            {
+               "label":"boxer",
+               "color":"#22a8a0",
+               "icon":"letter-b-box"
+            },
+             {
+               "label":"bra",
+               "color":"#32a8b0",
+               "icon":"letter-b-box"
             }
          ]
       }
