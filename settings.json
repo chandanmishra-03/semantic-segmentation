@@ -36,6 +36,11 @@
                "label":"bra",
                "color":"#32a8b0",
                "icon":"letter-b-box"
+            },
+            {
+               "label":"shirts",
+               "color":"#32a8b0",
+               "icon":"letter-s-box"
             }
          ]
       }
