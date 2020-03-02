@@ -41,6 +41,26 @@
                "label":"shirts",
                "color":"#32a8b0",
                "icon":"letter-s-box"
+            },
+            {
+               "label":"tshirts",
+               "color":"#32a8b0",
+               "icon":"letter-t-box"
+            },
+            {
+               "label":"tunics",
+               "color":"#32a8b0",
+               "icon":"letter-t-box"
+            },
+            {
+               "label":"kurtas",
+               "color":"#32a8b0",
+               "icon":"letter-k-box"
+            },
+            {
+               "label":"skirts",
+               "color":"#32a8b0",
+               "icon":"letter-s-box"
             }
          ]
       }
