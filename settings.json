@@ -61,7 +61,22 @@
                "label":"skirts",
                "color":"#32a852",
                "icon":"letter-s-box"
+            },
+            {
+               "label":"shorts",
+               "color":"#32a852",
+               "icon":"letter-s-box"
+            },
+            {
+               "label":"dress",
+               "color":"#32a852",
+               "icon":"letter-d-box"
+            },{
+               "label":"trousers",
+               "color":"#32a852",
+               "icon":"letter-t-box"
             }
+
          ]
       }
    ]
