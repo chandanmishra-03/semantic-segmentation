@@ -8,6 +8,20 @@
          "name":"eretailers-p1",
          "objects":[
             {
+               "label":"palazzos",
+               "color":"#14a852",
+               "icon":"letter-s-box"
+            },
+            {
+               "label":"tops",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },{
+               "label":"sweaters",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },
+            {
                "label":"saree",
                "color":"#32a852",
                "icon":"letter-s-box"
