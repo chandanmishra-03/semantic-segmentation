@@ -10,46 +10,46 @@
             {
                "label":"palazzos",
                "color":"#14a852",
-               "icon":"letter-s-box"
+               "icon":"letter-p-box"
             },
             {
                "label":"tops",
-               "color":"#34a852",
-               "icon":"letter-s-box"
+               "color":"#6b336b",
+               "icon":"letter-t-box"
             },{
                "label":"sweaters",
-               "color":"#34a052",
+               "color":"#467563",
                "icon":"letter-s-box"
             },
            {
                "label":"leggings",
-               "color":"#34a852",
-               "icon":"letter-s-box"
+               "color":"#4c6952",
+               "icon":"letter-l-box"
             },
            {
                "label":"night_suits",
-               "color":"#34a852",
-               "icon":"letter-s-box"
+               "color":"#4c6952",
+               "icon":"letter-n-box"
             },
            {
                "label":"dhotis",
-               "color":"#34a852",
-               "icon":"letter-s-box"
+               "color":"#694c5d",
+               "icon":"letter-d-box"
             },
            {
                "label":"capris",
-               "color":"#34a852",
+               "color":"#d99cf0",
                "icon":"letter-s-box"
             },
            {
                "label":"churidar",
-               "color":"#34a852",
-               "icon":"letter-s-box"
+               "color":"#d99cf0",
+               "icon":"letter-c-box"
             },
             {
                "label":"rain_jacket",
-               "color":"#34a852",
-               "icon":"letter-s-box"
+               "color":"#34ebe5",
+               "icon":"letter-r-box"
             },
             {
                "label":"saree",
