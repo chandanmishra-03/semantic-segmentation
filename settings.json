@@ -18,6 +18,36 @@
                "icon":"letter-s-box"
             },{
                "label":"sweaters",
+               "color":"#34a052",
+               "icon":"letter-s-box"
+            },
+           {
+               "label":"leggings",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },
+           {
+               "label":"night_suits",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },
+           {
+               "label":"dhotis",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },
+           {
+               "label":"capris",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },
+           {
+               "label":"churidar",
+               "color":"#34a852",
+               "icon":"letter-s-box"
+            },
+            {
+               "label":"rain_jacket",
                "color":"#34a852",
                "icon":"letter-s-box"
             },
