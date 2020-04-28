@@ -181,6 +181,41 @@
             }
 
          ]
-      }
+      },
+     {
+       "name": "neckline",
+       "objects": [
+         {
+               "label":"round_neck",
+               "color":"#56b455",
+               "icon":"letter-r-box"
+            },
+         {
+               "label":"boat_neck",
+               "color":"#32a852",
+               "icon":"letter-b-box"
+            },
+         {
+               "label":"polo_collar",
+               "color":"#12a822",
+               "icon":"letter-p-box"
+            },
+         {
+               "label":"off_shoulder",
+               "color":"#64a252",
+               "icon":"letter-o-box"
+            },
+         {
+               "label":"mandarin_collar",
+               "color":"#335133",
+               "icon":"letter-m-box"
+            },{
+               "label":"v_neck",
+               "color":"#82a282",
+               "icon":"letter-v-box"
+            }
+
+       ]
+     }
    ]
    }
