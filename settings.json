@@ -216,6 +216,41 @@
             }
 
        ]
+     },
+{
+       "name": "sleeve",
+       "objects": [
+         {
+               "label":"3by4",
+               "color":"#56b455",
+               "icon":"letter-b-box"
+            },
+         {
+               "label":"cap_sleeves",
+               "color":"#32a852",
+               "icon":"letter-c-box"
+            },
+         {
+               "label":"full_sleeves",
+               "color":"#12a822",
+               "icon":"letter-f-box"
+            },
+         {
+               "label":"half_sleeves",
+               "color":"#64a252",
+               "icon":"letter-h-box"
+            },
+         {
+               "label":"short_sleeves",
+               "color":"#335133",
+               "icon":"letter-s-box"
+            },{
+               "label":"sleeveless",
+               "color":"#82a282",
+               "icon":"letter-s-box"
+            }
+
+       ]
      }
    ]
    }
