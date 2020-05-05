@@ -213,6 +213,11 @@
                "label":"v_neck",
                "color":"#82a282",
                "icon":"letter-v-box"
+            },
+         {
+               "label":"scoop_neck",
+               "color":"#82a282",
+               "icon":"letter-s-box"
             }
 
        ]
