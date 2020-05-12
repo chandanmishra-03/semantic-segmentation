@@ -256,6 +256,55 @@
             }
 
        ]
+     },
+     {
+       "name": "pattern",
+       "objects": [
+         {
+               "label":"embroidered",
+               "color":"#56b455",
+               "icon":"letter-e-box"
+            },{
+               "label":"solid",
+               "color":"#82a282",
+               "icon":"letter-s-box"
+            },
+          {
+               "label":"striped",
+               "color":"#64a252",
+               "icon":"letter-s-box"
+            },
+          {
+               "label":"checked",
+               "color":"#64a252",
+               "icon":"letter-c-box"
+            },
+          {
+               "label":"dyed",
+               "color":"#64a252",
+               "icon":"letter-h-box"
+            },
+         {
+               "label":"printed",
+               "color":"#64a252",
+               "icon":"letter-h-box"
+            },
+         {
+               "label":"colour_blocked",
+               "color":"#64a252",
+               "icon":"letter-h-box"
+            },
+         {
+               "label":"embellished",
+               "color":"#64a252",
+               "icon":"letter-h-box"
+            },
+         {
+               "label":"self_design",
+               "color":"#64a252",
+               "icon":"letter-h-box"
+            }
+       ]
      }
    ]
    }
