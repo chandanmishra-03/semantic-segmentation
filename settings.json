@@ -305,6 +305,80 @@
                "icon":"letter-h-box"
             }
        ]
-     }
+     },
+     {
+      "name": "length",
+      "objects": [
+        {
+              "label":"above_knee",
+              "color":"#56b455",
+              "icon":"letter-e-box"
+           },{
+              "label":"ankle_length",
+              "color":"#82a282",
+              "icon":"letter-s-box"
+           },
+         {
+              "label":"below_knee",
+              "color":"#64a252",
+              "icon":"letter-s-box"
+           },
+         {
+              "label":"calf_length",
+              "color":"#64a252",
+              "icon":"letter-c-box"
+           },
+         {
+              "label":"churidar_length",
+              "color":"#64a252",
+              "icon":"letter-h-box"
+           },
+        {
+              "label":"crop",
+              "color":"#64a252",
+              "icon":"letter-h-box"
+           },
+        {
+              "label":"cropped",
+              "color":"#64a252",
+              "icon":"letter-h-box"
+           },
+        {
+              "label":"hip_length",
+              "color":"#64a252",
+              "icon":"letter-h-box"
+           },
+        {
+              "label":"knee_length",
+              "color":"#64a252",
+              "icon":"letter-h-box"
+           },
+           {
+            "label":"long",
+            "color":"#64a252",
+            "icon":"letter-h-box"
+         },
+         {
+            "label":"maxi",
+            "color":"#64a252",
+            "icon":"letter-h-box"
+         },
+         {
+            "label":"midi",
+            "color":"#64a252",
+            "icon":"letter-h-box"
+         },
+         {
+            "label":"mini",
+            "color":"#64a252",
+            "icon":"letter-h-box"
+         },
+         {
+            "label":"regular",
+            "color":"#64a252",
+            "icon":"letter-h-box"
+         }
+      ]
+    }
    ]
    }
