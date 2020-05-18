@@ -379,6 +379,41 @@
             "icon":"letter-h-box"
          }
       ]
+    },
+    {
+      "name": "collar",
+      "objects": [
+        {
+              "label":"button_down_collar",
+              "color":"#56b455",
+              "icon":"letter-b-box"
+           },{
+              "label":"cutaway_collar",
+              "color":"#82a282",
+              "icon":"letter-c-box"
+           },
+         {
+              "label":"spread_collar",
+              "color":"#64a252",
+              "icon":"letter-s-box"
+           },
+         {
+              "label":"mandarin_collar",
+              "color":"#36a252",
+              "icon":"letter-m-box"
+           },
+         {
+              "label":"mock_collar",
+              "color":"#24a252",
+              "icon":"letter-m-box"
+           },
+        {
+              "label":"stand_collar",
+              "color":"#61a152",
+              "icon":"letter-s-box"
+           }
+        
+      ]
     }
    ]
    }
