@@ -414,6 +414,57 @@
            }
         
       ]
+    },
+{
+      "name": "document",
+      "objects": [
+        {
+              "label":"address_proof",
+              "color":"#56b455",
+              "icon":"letter-b-box"
+           },{
+              "label":"bill",
+              "color":"#82a282",
+              "icon":"letter-c-box"
+           },
+         {
+              "label":"bank_statement",
+              "color":"#64a252",
+              "icon":"letter-s-box"
+           },
+         {
+              "label":"address",
+              "color":"#36a252",
+              "icon":"letter-m-box"
+           },
+         {
+              "label":"person_name",
+              "color":"#24a252",
+              "icon":"letter-m-box"
+           },
+        {
+              "label":"amount",
+              "color":"#61a152",
+              "icon":"letter-s-box"
+           },
+{
+              "label":"due_date",
+              "color":"#61a152",
+              "icon":"letter-s-box"
+           },
+{
+              "label":"bank_name",
+              "color":"#61a152",
+              "icon":"letter-s-box"
+           },
+{
+              "label":"account_no",
+              "color":"#61a152",
+              "icon":"letter-s-box"
+           }
+        
+        
+      ]
     }
    ]
    }
