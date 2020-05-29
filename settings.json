@@ -218,7 +218,24 @@
                "label":"scoop_neck",
                "color":"#82a282",
                "icon":"letter-s-box"
+            },
+            {
+               "label":"halter_neck",
+               "color":"#82a282",
+               "icon":"letter-s-box"
+            },
+            {
+               "label":"one_shoulder",
+               "color":"#82a282",
+               "icon":"letter-s-box"
+            },
+            {
+               "label":"cowl_neck",
+               "color":"#82a282",
+               "icon":"letter-s-box"
             }
+            
+
 
        ]
      },
