@@ -1,487 +1,503 @@
 {
-   "configuration":{
-      "images-folder":"/home/textmercato/filestore/mechanical_terk/images/",
-      "internal-folder":"/home/textmercato/filestore/mechanical_terk/outputs/"
+   "configuration": {
+      "images-folder": "/home/textmercato/filestore/mechanical_terk/images/",
+      "internal-folder": "/home/textmercato/filestore/mechanical_terk/outputs/"
    },
-   "sets-of-classes":[
+   "sets-of-classes": [
       {
-         "name":"eretailers-p1",
-         "objects":[
-           
+         "name": "eretailers-p1",
+         "objects": [
             {
-               "label":"saree",
-               "color":"#32a852",
-               "icon":"letter-s-box"
-            },
-            {
-               "label":"innerwear",
-               "color":"#32a8a0",
-               "icon":"letter-i-box"
+               "label": "saree",
+               "color": "#32a852",
+               "icon": "letter-s-box"
             },
             {
-               "label":"brief",
-               "color":"#32c8a0",
-               "icon":"letter-b-box"
+               "label": "innerwear",
+               "color": "#32a8a0",
+               "icon": "letter-i-box"
             },
             {
-               "label":"vest",
-               "color":"#21a8a0",
-               "icon":"letter-v-box"
+               "label": "brief",
+               "color": "#32c8a0",
+               "icon": "letter-b-box"
             },
             {
-               "label":"boxer",
-               "color":"#22a8a0",
-               "icon":"letter-b-box"
-            },
-             {
-               "label":"bra",
-               "color":"#32a8b0",
-               "icon":"letter-b-box"
+               "label": "vest",
+               "color": "#21a8a0",
+               "icon": "letter-v-box"
             },
             {
-               "label":"shirts",
-               "color":"#a88332",
-               "icon":"letter-s-box"
+               "label": "boxer",
+               "color": "#22a8a0",
+               "icon": "letter-b-box"
             },
             {
-               "label":"tshirts",
-               "color":"#a83248",
-               "icon":"letter-t-box"
+               "label": "bra",
+               "color": "#32a8b0",
+               "icon": "letter-b-box"
             },
             {
-               "label":"tunics",
-               "color":"#a86248",
-               "icon":"letter-t-box"
+               "label": "shirts",
+               "color": "#a88332",
+               "icon": "letter-s-box"
             },
             {
-               "label":"kurtas",
-               "color":"#329ca8",
-               "icon":"letter-k-box"
+               "label": "tshirts",
+               "color": "#a83248",
+               "icon": "letter-t-box"
             },
             {
-               "label":"skirts",
-               "color":"#32a852",
-               "icon":"letter-s-box"
+               "label": "tunics",
+               "color": "#a86248",
+               "icon": "letter-t-box"
             },
             {
-               "label":"shorts",
-               "color":"#d16d3b",
-               "icon":"letter-s-box"
+               "label": "kurtas",
+               "color": "#329ca8",
+               "icon": "letter-k-box"
             },
             {
-               "label":"dress",
-               "color":"#25dbc3",
-               "icon":"letter-d-box"
-            },{
-               "label":"trousers",
-               "color":"#621c91",
-               "icon":"letter-t-box"
+               "label": "skirts",
+               "color": "#32a852",
+               "icon": "letter-s-box"
             },
             {
-               "label":"formal trouser",
-               "color":"b89aac",
-               "icon":"letter-t-box"
+               "label": "shorts",
+               "color": "#d16d3b",
+               "icon": "letter-s-box"
             },
             {
-               "label":"casual trouser",
-               "color":"#8372d4",
-               "icon":"letter-t-box"
+               "label": "dress",
+               "color": "#25dbc3",
+               "icon": "letter-d-box"
             },
             {
-               "label":"track pant",
-               "color":"#32a852",
-               "icon":"letter-t-box"
-            },{
-               "label":"cargo",
-               "color":"#c7967d",
-               "icon":"letter-t-box"
+               "label": "trousers",
+               "color": "#621c91",
+               "icon": "letter-t-box"
             },
             {
-               "label":"pyjamas",
-               "color":"#f069d3",
-               "icon":"letter-t-box"
+               "label": "formal trouser",
+               "color": "b89aac",
+               "icon": "letter-t-box"
             },
             {
-               "label":"jeans",
-               "color":"#ad62e3",
-               "icon":"letter-t-box"
+               "label": "casual trouser",
+               "color": "#8372d4",
+               "icon": "letter-t-box"
             },
             {
-               "label":"jackets",
-               "color":"#7567db",
-               "icon":"letter-t-box"
+               "label": "track pant",
+               "color": "#32a852",
+               "icon": "letter-t-box"
             },
             {
-               "label":"sweatshirts",
-               "color":"#b1f0ce",
-               "icon":"letter-t-box"
+               "label": "cargo",
+               "color": "#c7967d",
+               "icon": "letter-t-box"
             },
             {
-               "label":"suits",
-               "color":"#eef0b1",
-               "icon":"letter-t-box"
+               "label": "pyjamas",
+               "color": "#f069d3",
+               "icon": "letter-t-box"
             },
             {
-               "label":"jumpsuit",
-               "color":"#fcba03",
-               "icon":"letter-t-box"
-            },
-             {
-               "label":"palazzos",
-               "color":"#14a852",
-               "icon":"letter-p-box"
+               "label": "jeans",
+               "color": "#ad62e3",
+               "icon": "letter-t-box"
             },
             {
-               "label":"tops",
-               "color":"#6b336b",
-               "icon":"letter-t-box"
-            },{
-               "label":"sweaters",
-               "color":"#467563",
-               "icon":"letter-s-box"
-            },
-           {
-               "label":"leggings",
-               "color":"#4c6952",
-               "icon":"letter-l-box"
-            },
-           {
-               "label":"night_suits",
-               "color":"#4c6952",
-               "icon":"letter-n-box"
-            },
-           {
-               "label":"dhotis",
-               "color":"#694c5d",
-               "icon":"letter-d-box"
-            },
-           {
-               "label":"capris",
-               "color":"#d99cf0",
-               "icon":"letter-s-box"
-            },
-           {
-               "label":"churidar",
-               "color":"#d99cf0",
-               "icon":"letter-c-box"
+               "label": "jackets",
+               "color": "#7567db",
+               "icon": "letter-t-box"
             },
             {
-               "label":"rain_jacket",
-               "color":"#34ebe5",
-               "icon":"letter-r-box"
+               "label": "sweatshirts",
+               "color": "#b1f0ce",
+               "icon": "letter-t-box"
             },
-           {
-               "label":"kurtis",
-               "color":"#34ebe5",
-               "icon":"letter-r-box"
-            },{
-               "label":"salwar",
-               "color":"#34ebe5",
-               "icon":"letter-r-box"
+            {
+               "label": "suits",
+               "color": "#eef0b1",
+               "icon": "letter-t-box"
+            },
+            {
+               "label": "jumpsuit",
+               "color": "#fcba03",
+               "icon": "letter-t-box"
+            },
+            {
+               "label": "palazzos",
+               "color": "#14a852",
+               "icon": "letter-p-box"
+            },
+            {
+               "label": "tops",
+               "color": "#6b336b",
+               "icon": "letter-t-box"
+            },
+            {
+               "label": "sweaters",
+               "color": "#467563",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "leggings",
+               "color": "#4c6952",
+               "icon": "letter-l-box"
+            },
+            {
+               "label": "night_suits",
+               "color": "#4c6952",
+               "icon": "letter-n-box"
+            },
+            {
+               "label": "dhotis",
+               "color": "#694c5d",
+               "icon": "letter-d-box"
+            },
+            {
+               "label": "capris",
+               "color": "#d99cf0",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "churidar",
+               "color": "#d99cf0",
+               "icon": "letter-c-box"
+            },
+            {
+               "label": "rain_jacket",
+               "color": "#34ebe5",
+               "icon": "letter-r-box"
+            },
+            {
+               "label": "kurtis",
+               "color": "#34ebe5",
+               "icon": "letter-r-box"
+            },
+            {
+               "label": "salwar",
+               "color": "#34ebe5",
+               "icon": "letter-r-box"
             }
-
          ]
       },
-     {
-       "name": "neckline",
-       "objects": [
-         {
-               "label":"round_neck",
-               "color":"#56b455",
-               "icon":"letter-r-box"
-            },
-         {
-               "label":"boat_neck",
-               "color":"#32a852",
-               "icon":"letter-b-box"
-            },
-         {
-               "label":"polo_collar",
-               "color":"#12a822",
-               "icon":"letter-p-box"
-            },
-         {
-               "label":"off_shoulder",
-               "color":"#64a252",
-               "icon":"letter-o-box"
-            },
-         {
-               "label":"mandarin_collar",
-               "color":"#335133",
-               "icon":"letter-m-box"
-            },{
-               "label":"v_neck",
-               "color":"#82a282",
-               "icon":"letter-v-box"
-            },
-         {
-               "label":"scoop_neck",
-               "color":"#82a282",
-               "icon":"letter-s-box"
+      {
+         "name": "neckline",
+         "objects": [
+            {
+               "label": "round_neck",
+               "color": "#56b455",
+               "icon": "letter-r-box"
             },
             {
-               "label":"halter_neck",
-               "color":"#82a282",
-               "icon":"letter-s-box"
+               "label": "boat_neck",
+               "color": "#32a852",
+               "icon": "letter-b-box"
             },
             {
-               "label":"one_shoulder",
-               "color":"#82a282",
-               "icon":"letter-s-box"
+               "label": "polo_collar",
+               "color": "#12a822",
+               "icon": "letter-p-box"
             },
             {
-               "label":"cowl_neck",
-               "color":"#82a282",
-               "icon":"letter-s-box"
+               "label": "off_shoulder",
+               "color": "#64a252",
+               "icon": "letter-o-box"
+            },
+            {
+               "label": "mandarin_collar",
+               "color": "#335133",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "v_neck",
+               "color": "#82a282",
+               "icon": "letter-v-box"
+            },
+            {
+               "label": "scoop_neck",
+               "color": "#82a282",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "halter_neck",
+               "color": "#82a282",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "one_shoulder",
+               "color": "#82a282",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "cowl_neck",
+               "color": "#82a282",
+               "icon": "letter-s-box"
             }
-            
-
-
-       ]
-     },
-{
-       "name": "sleeve",
-       "objects": [
-         {
-               "label":"3by4",
-               "color":"#56b455",
-               "icon":"letter-b-box"
+         ]
+      },
+      {
+         "name": "sleeve",
+         "objects": [
+            {
+               "label": "3by4",
+               "color": "#56b455",
+               "icon": "letter-b-box"
             },
-         {
-               "label":"cap_sleeves",
-               "color":"#32a852",
-               "icon":"letter-c-box"
+            {
+               "label": "cap_sleeves",
+               "color": "#32a852",
+               "icon": "letter-c-box"
             },
-         {
-               "label":"full_sleeves",
-               "color":"#12a822",
-               "icon":"letter-f-box"
+            {
+               "label": "full_sleeves",
+               "color": "#12a822",
+               "icon": "letter-f-box"
             },
-         {
-               "label":"half_sleeves",
-               "color":"#64a252",
-               "icon":"letter-h-box"
+            {
+               "label": "half_sleeves",
+               "color": "#64a252",
+               "icon": "letter-h-box"
             },
-         {
-               "label":"short_sleeves",
-               "color":"#335133",
-               "icon":"letter-s-box"
-            },{
-               "label":"sleeveless",
-               "color":"#82a282",
-               "icon":"letter-s-box"
+            {
+               "label": "short_sleeves",
+               "color": "#335133",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "sleeveless",
+               "color": "#82a282",
+               "icon": "letter-s-box"
             }
-
-       ]
-     },
-     {
-       "name": "pattern",
-       "objects": [
-         {
-               "label":"embroidered",
-               "color":"#56b455",
-               "icon":"letter-e-box"
-            },{
-               "label":"solid",
-               "color":"#82a282",
-               "icon":"letter-s-box"
+         ]
+      },
+      {
+         "name": "pattern",
+         "objects": [
+            {
+               "label": "embroidered",
+               "color": "#56b455",
+               "icon": "letter-e-box"
             },
-          {
-               "label":"striped",
-               "color":"#64a252",
-               "icon":"letter-s-box"
+            {
+               "label": "solid",
+               "color": "#82a282",
+               "icon": "letter-s-box"
             },
-          {
-               "label":"checked",
-               "color":"#64a252",
-               "icon":"letter-c-box"
+            {
+               "label": "striped",
+               "color": "#64a252",
+               "icon": "letter-s-box"
             },
-          {
-               "label":"dyed",
-               "color":"#64a252",
-               "icon":"letter-h-box"
+            {
+               "label": "checked",
+               "color": "#64a252",
+               "icon": "letter-c-box"
             },
-         {
-               "label":"printed",
-               "color":"#64a252",
-               "icon":"letter-h-box"
+            {
+               "label": "dyed",
+               "color": "#64a252",
+               "icon": "letter-h-box"
             },
-         {
-               "label":"colour_blocked",
-               "color":"#64a252",
-               "icon":"letter-h-box"
+            {
+               "label": "printed",
+               "color": "#64a252",
+               "icon": "letter-h-box"
             },
-         {
-               "label":"embellished",
-               "color":"#64a252",
-               "icon":"letter-h-box"
+            {
+               "label": "colour_blocked",
+               "color": "#64a252",
+               "icon": "letter-h-box"
             },
-         {
-               "label":"self_design",
-               "color":"#64a252",
-               "icon":"letter-h-box"
+            {
+               "label": "embellished",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "self_design",
+               "color": "#64a252",
+               "icon": "letter-h-box"
             }
-       ]
-     },
-     {
-      "name": "length",
-      "objects": [
-        {
-              "label":"above_knee",
-              "color":"#56b455",
-              "icon":"letter-e-box"
-           },{
-              "label":"ankle_length",
-              "color":"#82a282",
-              "icon":"letter-s-box"
-           },
-         {
-              "label":"below_knee",
-              "color":"#64a252",
-              "icon":"letter-s-box"
-           },
-         {
-              "label":"calf_length",
-              "color":"#64a252",
-              "icon":"letter-c-box"
-           },
-         {
-              "label":"churidar_length",
-              "color":"#64a252",
-              "icon":"letter-h-box"
-           },
-        {
-              "label":"crop",
-              "color":"#64a252",
-              "icon":"letter-h-box"
-           },
-        {
-              "label":"cropped",
-              "color":"#64a252",
-              "icon":"letter-h-box"
-           },
-        {
-              "label":"hip_length",
-              "color":"#64a252",
-              "icon":"letter-h-box"
-           },
-        {
-              "label":"knee_length",
-              "color":"#64a252",
-              "icon":"letter-h-box"
-           },
-           {
-            "label":"long",
-            "color":"#64a252",
-            "icon":"letter-h-box"
-         },
-         {
-            "label":"maxi",
-            "color":"#64a252",
-            "icon":"letter-h-box"
-         },
-         {
-            "label":"midi",
-            "color":"#64a252",
-            "icon":"letter-h-box"
-         },
-         {
-            "label":"mini",
-            "color":"#64a252",
-            "icon":"letter-h-box"
-         },
-         {
-            "label":"regular",
-            "color":"#64a252",
-            "icon":"letter-h-box"
-         }
-      ]
-    },
-    {
-      "name": "collar",
-      "objects": [
-        {
-              "label":"button_down_collar",
-              "color":"#56b455",
-              "icon":"letter-b-box"
-           },{
-              "label":"cutaway_collar",
-              "color":"#82a282",
-              "icon":"letter-c-box"
-           },
-         {
-              "label":"spread_collar",
-              "color":"#64a252",
-              "icon":"letter-s-box"
-           },
-         {
-              "label":"mandarin_collar",
-              "color":"#36a252",
-              "icon":"letter-m-box"
-           },
-         {
-              "label":"mock_collar",
-              "color":"#24a252",
-              "icon":"letter-m-box"
-           },
-        {
-              "label":"stand_collar",
-              "color":"#61a152",
-              "icon":"letter-s-box"
-           }
-        
-      ]
-    },
-{
-      "name": "document",
-      "objects": [
-        {
-              "label":"address_proof",
-              "color":"#56b455",
-              "icon":"letter-b-box"
-           },{
-              "label":"bill",
-              "color":"#82a282",
-              "icon":"letter-c-box"
-           },
-         {
-              "label":"bank_statement",
-              "color":"#64a252",
-              "icon":"letter-s-box"
-           },
-         {
-              "label":"address",
-              "color":"#36a252",
-              "icon":"letter-m-box"
-           },
-         {
-              "label":"person_name",
-              "color":"#24a252",
-              "icon":"letter-m-box"
-           },
-        {
-              "label":"amount",
-              "color":"#61a152",
-              "icon":"letter-s-box"
-           },
-{
-              "label":"due_date",
-              "color":"#61a152",
-              "icon":"letter-s-box"
-           },
-{
-              "label":"company_name",
-              "color":"#61a152",
-              "icon":"letter-s-box"
-           },
-{
-              "label":"account_no",
-              "color":"#61a152",
-              "icon":"letter-s-box"
-           }
-        
-        
-      ]
-    }
+         ]
+      },
+      {
+         "name": "length",
+         "objects": [
+            {
+               "label": "above_knee",
+               "color": "#56b455",
+               "icon": "letter-e-box"
+            },
+            {
+               "label": "ankle_length",
+               "color": "#82a282",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "below_knee",
+               "color": "#64a252",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "calf_length",
+               "color": "#64a252",
+               "icon": "letter-c-box"
+            },
+            {
+               "label": "churidar_length",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "crop",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "cropped",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "hip_length",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "knee_length",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "long",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "maxi",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "midi",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "mini",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            },
+            {
+               "label": "regular",
+               "color": "#64a252",
+               "icon": "letter-h-box"
+            }
+         ]
+      },
+      {
+         "name": "collar",
+         "objects": [
+            {
+               "label": "button_down_collar",
+               "color": "#56b455",
+               "icon": "letter-b-box"
+            },
+            {
+               "label": "cutaway_collar",
+               "color": "#82a282",
+               "icon": "letter-c-box"
+            },
+            {
+               "label": "spread_collar",
+               "color": "#64a252",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "mandarin_collar",
+               "color": "#36a252",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "mock_collar",
+               "color": "#24a252",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "stand_collar",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "club_collar",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "slim_collar",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "peaked_lapel",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            }
+         ]
+      },
+      {
+         "name": "document",
+         "objects": [
+            {
+               "label": "address_proof",
+               "color": "#56b455",
+               "icon": "letter-b-box"
+            },
+            {
+               "label": "bill",
+               "color": "#82a282",
+               "icon": "letter-c-box"
+            },
+            {
+               "label": "bank_statement",
+               "color": "#64a252",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "address",
+               "color": "#36a252",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "person_name",
+               "color": "#24a252",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "amount",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "due_date",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "company_name",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "account_no",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            }
+         ]
+      }
    ]
-   }
+}
