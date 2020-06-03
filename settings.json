@@ -236,6 +236,16 @@
                "label": "cowl_neck",
                "color": "#82a282",
                "icon": "letter-s-box"
+            },
+            {
+               "label": "square_neck",
+               "color": "#82a282",
+               "icon": "letter-s-box"
+            }, 
+            {
+               "label": "shirt_neck",
+               "color": "#82a282",
+               "icon": "letter-s-box"
             }
          ]
       },
@@ -450,54 +460,95 @@
          ]
       },
       {
-         "name": "document",
+         "name": "sleeve_styles",
          "objects": [
             {
-               "label": "address_proof",
+               "label": "no_sleeves",
                "color": "#56b455",
-               "icon": "letter-b-box"
+               "icon": "letter-n-box"
             },
             {
-               "label": "bill",
+               "label": "regular_sleeves",
                "color": "#82a282",
-               "icon": "letter-c-box"
+               "icon": "letter-r-box"
             },
             {
-               "label": "bank_statement",
+               "label": "roll_up_sleeves",
                "color": "#64a252",
-               "icon": "letter-s-box"
+               "icon": "letter-r-box"
             },
             {
-               "label": "address",
+               "label": "shoulder_straps",
                "color": "#36a252",
                "icon": "letter-m-box"
             },
             {
-               "label": "person_name",
+               "label": "bell_sleeves",
                "color": "#24a252",
                "icon": "letter-m-box"
             },
             {
-               "label": "amount",
+               "label": "cap_sleeves",
                "color": "#61a152",
                "icon": "letter-s-box"
             },
             {
-               "label": "due_date",
-               "color": "#61a152",
-               "icon": "letter-s-box"
-            },
-            {
-               "label": "company_name",
-               "color": "#61a152",
-               "icon": "letter-s-box"
-            },
-            {
-               "label": "account_no",
+               "label": "cold_shoulder_sleeves",
                "color": "#61a152",
                "icon": "letter-s-box"
             }
          ]
-      }
+      },
+      {
+         "name": "closure",
+         "objects": [
+            {
+               "label": "back_closure",
+               "color": "#56b455",
+               "icon": "letter-b-box"
+            },
+            {
+               "label": "button",
+               "color": "#82a282",
+               "icon": "letter-c-box"
+            },
+            {
+               "label": "button_and_zip",
+               "color": "#64a252",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "concealed_zip",
+               "color": "#36a252",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "drawstrin",
+               "color": "#24a252",
+               "icon": "letter-m-box"
+            },
+            {
+               "label": "elasticated",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "side_closure",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "zip",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            },
+            {
+               "label": "slip_on",
+               "color": "#61a152",
+               "icon": "letter-s-box"
+            }
+         ]
+      },
+   
    ]
 }
